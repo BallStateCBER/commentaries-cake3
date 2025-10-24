@@ -10,7 +10,7 @@
     </h2>
     <p>
         Commentaries are published weekly and distributed through the
-        <em>Indianapolis Business Journal</em> and many other print
+        <em>Indianapolis Star</em> and many other print
         and online publications.
         <a href="#" id="disclaimer_toggler" data-toggle="collapse" data-target="#commentary_disclaimer">
             Disclaimer
@@ -40,7 +40,7 @@
         Disclaimer
     </h2>
     <p>
-        The views expressed in these commentaries do not reflect those of Ball State University or the Center for Business and Economic Research.
+        The views expressed here are solely those of the author, and do not represent those of funders, associations, any entity of Ball State University, or its governing body.
     </p>
 </div>
 
